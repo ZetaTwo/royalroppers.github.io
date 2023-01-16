@@ -39,9 +39,10 @@ const Ctfs = function () {
             </div>
             <div
                 className="p-4 grid justify-items-center grid-cols-1 md:grid-cols-2 md:p-6 lg:grid-cols-3 lg:p-8 xl:p-10 gap-8 m-auto max-w-6xl">
-                {json.ctfs.filter((e) => { return e.place < cutoff_threshold }).map((e) => {
+                {json.ctfs.filter((e) => { return e.place < cutoff_threshold }).map((e,i) => {
                     return (
                         <CTF
+                            key={i}
                             name={e.ctf_name}
                             description={e.description}
                             logo={e.logo}

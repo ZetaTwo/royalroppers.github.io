@@ -24,9 +24,10 @@ const Sponsors = function () {
             </div>
             <div
                 className="p-6 grid justify-items-center grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:p-8 xl:p-10 gap-8 m-auto max-w-6xl">
-                {json.sponsors.map((e) => {
+                {json.sponsors.map((e,i) => {
                     return (
                         <Sponsor
+                            key={i}
                             company={e.sponsor}
                             link={e.link ? e.link : rr_link}
                             logo={e.logo ? e.logo : rr_logo}
