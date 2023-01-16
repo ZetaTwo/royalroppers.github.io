@@ -18,49 +18,49 @@
             "ctf_name": "SEC-T 0x0Expand CTF 2022",
             "description": "SEC-T is a security/hacking conference in Stockholm. This is the CTF competition for SEC-T 2022, aka. SEC-T 0x0Expand.",
             "link": "https://ctftime.org/event/1761",
-            "logo": "http://ctftime.org/media/cache/68/c2/68c24330d22d8bf48e735a1617dd0e2a.png",
+            "logo": "https://ctftime.org/media/cache/68/c2/68c24330d22d8bf48e735a1617dd0e2a.png",
             "place": "2"
         },
         {
             "ctf_name": "TAMUctf 2022",
             "description": "Texas A&M University CTF event. Geared towards university and high school students. Has been organized since 2017.",
             "link": "https://ctftime.org/event/1557",
-            "logo": "http://ctftime.org/media/cache/63/f4/63f45e2819102f8dce0192e17164aa27.png",
+            "logo": "https://ctftime.org/media/cache/63/f4/63f45e2819102f8dce0192e17164aa27.png",
             "place": "3"
         },
         {
             "ctf_name": "LakeCTF Finals",
             "description": "The 10 qualified teams from LakeCTF qualifications are invited to play the finals at EPFL during the celebration of the 20 years of the IC Faculty.",
             "link": "https://ctftime.org/event/1804",
-            "logo": "http://ctftime.org/media/cache/1b/4d/1b4d661b6ff7136a79d424c43c7a8b67.png",
+            "logo": "https://ctftime.org/media/cache/1b/4d/1b4d661b6ff7136a79d424c43c7a8b67.png",
             "place": "10"
         },
         {
             "ctf_name": "Midnight Sun CTF 2022 Finals",
             "description": "Midnight Sun CTF is HackingForSoju's annual CTF event to promote competition around the world. The finals is onsite in Stockholm.",
             "link": "https://ctftime.org/event/1475",
-            "logo": "http://ctftime.org/media/cache/fe/28/fe285a50a250ddf950a814e149f0768c.png",
+            "logo": "https://ctftime.org/media/cache/fe/28/fe285a50a250ddf950a814e149f0768c.png",
             "place": "11"
         },
         {
             "ctf_name": "Incognito 3.0",
             "description": "Incognito 3.0 is a CTF competition being held in the Equinox-Annual Technical Fest of IIIT Lucknow.",
             "link": "https://ctftime.org/event/1632",
-            "logo": "http://ctftime.org/media/cache/da/e7/dae76aff86a15c06258d74ae6e0b0af6.png",
+            "logo": "https://ctftime.org/media/cache/da/e7/dae76aff86a15c06258d74ae6e0b0af6.png",
             "place": "3"
         },
         {
             "ctf_name": "Insomni'hack teaser 2022",
             "description": "Qualifier for the onsite CTF during the Insomni'hack conference.",
             "link": "https://ctftime.org/event/1505",
-            "logo": "http://ctftime.org/media/cache/51/a7/51a7197c820d41930f620195eb2ed346.png",
+            "logo": "https://ctftime.org/media/cache/51/a7/51a7197c820d41930f620195eb2ed346.png",
             "place": "12"
         },
         {
             "ctf_name": "DownUnderCTF 2022 (Online) ",
             "description": "DownUnderCTF is the largest online Australian run CTF with over 2100+ registered teams.",
             "link": "https://ctftime.org/event/1625",
-            "logo": "http://ctftime.org/media/cache/34/ed/34ed0b89578f421e1c64a73c2c63eca5.png",
+            "logo": "https://ctftime.org/media/cache/34/ed/34ed0b89578f421e1c64a73c2c63eca5.png",
             "place": "12"
         }
     ]
