@@ -1,10 +1,3 @@
 {
-  "event": [
-    {
-      "event_name": "Yearly meeting",
-      "date": "03/12",
-      "logo": "",
-      "description": "Like every förening/association we will have a yearly meeting where we elect a new board for the coming year, look over what we have done in the previous year and vote about budget and so on for the coming year."
-    }
-  ]
+  "event": []
 }

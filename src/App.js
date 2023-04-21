@@ -11,7 +11,7 @@ export default function App() {
         <div>
             <Header />
             <About />
-            <Events />
+            {/* <Events /> */}
             <Ctfs />
             <Meetups />
             <Sponsors />
