@@ -8,6 +8,10 @@
     .default-text {
         @apply text-snowbright
     }
+    
+    .text-gold {
+        color: Gold;
+    }
 
     body {
         background-color: var(--primary);
