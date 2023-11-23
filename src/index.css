@@ -13,6 +13,14 @@
         color: Gold;
     }
 
+    .text-silver {
+        color: silver;
+    }
+
+    .text-bronze {
+        color: darkgoldenrod;
+    }
+
     body {
         background-color: var(--primary);
     }

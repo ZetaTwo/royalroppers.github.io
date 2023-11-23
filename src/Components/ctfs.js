@@ -26,7 +26,10 @@ const CTF = function ({ name, logo, description, link, place }) {
                 <img className="my-2 rounded-lg w-full object-none" style={{height: "150px"}} src={logo} alt="" />
                 <p className="mb-3 font-normal text-gray-200">{description}</p>
             </div>
-            <p className={`text-center ${place === "1" ? 'border-2 border-yellow-300 m-5 text-gold text-xl' : 'border-2 border-gray-400 m-5 text-white'}`}>{ordinal(place)} place</p>
+            <p className={`text-center ${place === "1" ? 'border-2 border-yellow-300 m-5 text-gold text-xl' :
+                                        place === "2" ? 'border-2 border-silver-300 m-5 text-silver text-xl' :
+                                        place === "3" ? 'border-2 border-yellow-400 m-5 text-bronze text-xl' :
+                                        'border-2 border-gray-400 m-5 text-white'}`}>{ordinal(place)} place</p>
         </a>
     );
 }

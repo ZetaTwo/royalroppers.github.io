@@ -15,6 +15,13 @@
             "place": "1"
         },
         {
+            "ctf_name": "Crate-CTF 2023",
+            "description": "A competition hosted by FOI (Swedish Defence Research Agency)",
+            "link": "https://ctf.crate.foi.se/",
+            "logo": "/crate-ctf-2023.png",
+            "place": "3"
+        },
+        {
             "ctf_name": "DownUnderCTF 2023",
             "description": "DownUnderCTF is the largest online Australian run CTF with over 4100+ registered users and over 1900+ registered teams.",
             "link": "https://github.com/DownUnderCTF/Challenges_2023_Public",
