@@ -11,7 +11,7 @@ const About = function () {
             <h2 className="text-center pt-3 pb-3 default-text text-3xl">
                 Want to play CTFs with us? Click&nbsp;
                 <a className="text-[#f9c867] underline underline-offset-2"
-                    href="https://forms.gle/f5CK7EtJ56XQWzPw5">here
+                    href="https://forms.gle/uVaYpFLjF7a6JGGC7">here
                 </a>
                 &nbsp;to join!
             </h2>
