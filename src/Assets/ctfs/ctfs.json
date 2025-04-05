@@ -1,6 +1,62 @@
 {
     "ctfs": [
         {
+            "ctf_name": "Undutmaning 2025",
+            "description": "Swedish CTF organized by FRA, MUST and SÄPO.",
+            "link": "https://undutmaning.se/",
+            "logo": "https://ctftime.org/media/cache/f2/c4/f2c4010d0ac9fd55a4f3220c916c7c1e.png",
+            "place": "1"
+        },
+        {
+            "ctf_name": "snakeCTF 2024 Finals",
+            "description": "CTF organized by MadrHacks, the ethical hacking team of the University of Udine",
+            "link": "https://snakectf.org/",
+            "logo": "https://ctftime.org/media/cache/59/35/59353dda6781d1abea1858bd25e924d9.png",
+            "place": "5"
+        },
+        {
+            "ctf_name": "Crate-CTF 2024",
+            "description": "A competition hosted by FOI (Swedish Defence Research Agency)",
+            "link": "https://ctftime.org/event/2489",
+            "logo": "https://ctftime.org/media/cache/7f/19/7f194f690b2785026fb5bdbf55c427f1.png",
+            "place": "1"
+        },
+        {
+            "ctf_name": "snakeCTF 2024 Quals",
+            "description": "CTF organized by MadrHacks, the ethical hacking team of the University of Udine",
+            "link": "https://snakectf.org/",
+            "logo": "https://ctftime.org/media/cache/ef/ce/efce65fed19e61edd0f19e8351165bd3.png",
+            "place": "1"
+        },
+        {
+            "ctf_name": "Midnight Sun CTF 2024 Finals",
+            "description": "Midnight Sun CTF is HackingForSoju's annual CTF event to promote competition around the world. The finals is onsite in Stockholm and also features a cybersecurity conference.",
+            "link": "https://ctftime.org/event/2409",
+            "logo": "https://ctftime.org/media/cache/03/e5/03e561ba9fb6ecfee5ab4ce5a6ca60bc.png",
+            "place": "7"
+        },
+        {
+            "ctf_name": "Midnight Sun CTF 2024 Quals",
+            "description": "Midnight Sun CTF is HackingForSoju's annual CTF event to promote competition around the world. The finals is onsite in Stockholm and also features a cybersecurity conference.",
+            "link": "https://ctftime.org/event/2247",
+            "logo": "https://ctftime.org/media/cache/77/27/77272d170a3ce81e7c9418097aa698b2.png",
+            "place": "12"
+        },
+        {
+            "ctf_name": "TAMUctf 2024",
+            "description": "Texas A&M University CTF event. Geared towards university and high school students. Has been organized since 2017.",
+            "link": "https://ctftime.org/event/2238",
+            "logo": "https://ctftime.org/media/cache/af/7e/af7e827c56bc30edf4fd1f398fa0751d.png",
+            "place": "3"
+        },
+        {
+            "ctf_name": "Undutmaning 2024",
+            "description": "Swedish CTF organized by FRA, MUST and SÄPO.",
+            "link": "https://undutmaning.se/",
+            "logo": "https://ctftime.org/media/cache/d8/74/d874f50b075e0944b34b942b72842f5b.png",
+            "place": "1"
+        },
+        {
             "ctf_name": "SEC-T 0x0FOO CTF 2023",
             "description": "SEC-T is a security/hacking conference in Stockholm. This is the CTF competition for SEC-T 2023",
             "link": "https://sec-t.hackaplaneten.se/",
@@ -61,7 +117,7 @@
             "description": "Swedish CTF organized by FRA, MUST and SÄPO. First time it was organized.",
             "link": "https://undutmaning.se/",
             "logo": "/und.png",
-            "place": "1" 
+            "place": "1"
         },
         {
             "ctf_name": "SEC-T 0x0Expand CTF 2022",
