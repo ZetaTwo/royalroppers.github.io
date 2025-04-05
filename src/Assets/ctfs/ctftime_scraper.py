@@ -36,6 +36,7 @@ dump = soup.findAll('tr')[1:]
 print(dump)
 ctfs = [parser(i, e) for i, e in enumerate(dump)]
 ctfs = [i for i in ctfs if i]
+ctfs = [c for c in ctfs if int(c["place"]) <= 15]
 final = {'ctfs': ctfs}
 print(json.dumps(final, sort_keys=True, indent=4))
 print(len(ctfs), "CTFs scraped")
