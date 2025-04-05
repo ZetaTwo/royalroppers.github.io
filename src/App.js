@@ -7,15 +7,15 @@ import Footer from "./Components/footer";
 import Meetups from "./Components/meetups";
 
 export default function App() {
-    return (
-        <div>
-            <Header />
-            <About />
-            {/* <Events /> */}
-            <Ctfs />
-            <Meetups />
-            <Sponsors />
-            <Footer />
-        </div>
-    );
+  return (
+    <div>
+      <Header />
+      <About />
+      {/* <Events /> */}
+      <Ctfs />
+      <Meetups />
+      <Sponsors />
+      <Footer />
+    </div>
+  );
 }
