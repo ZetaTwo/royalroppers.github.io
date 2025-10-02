@@ -1,6 +1,13 @@
 {
     "ctfs": [
         {
+            "ctf_name": "snakeCTF 2025 Quals",
+            "description": "CTF organized by MadrHacks, the ethical hacking team of the University of Udine",
+            "link": "https://snakectf.org/",
+            "logo": "https://ctftime.org/media/cache/4f/9c/4f9c9d297ee02ffa0103ec5f74fdbeb9.png",
+            "place": "14"
+        },
+        {
             "ctf_name": "Undutmaning 2025",
             "description": "Swedish CTF organized by FRA, MUST and SÄPO.",
             "link": "https://undutmaning.se/",
