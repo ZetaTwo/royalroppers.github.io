@@ -16,7 +16,7 @@ const About = function () {
         Want to play CTFs with us?{" "}
         <a
           className="text-[#f9c867] underline underline-offset-2"
-          href="https://forms.gle/uVaYpFLjF7a6JGGC7"
+          href="https://forms.gle/sgYP4m2U8mrTjdj3A"
         >
           Submit an application
         </a>
